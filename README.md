@@ -10,4 +10,4 @@ Synchrotron X-ray powder diffraction (SXRD) collected at beamline BL2-1 at the S
 
 Raman spectroscopy raw data files are in the Raman directory.
 
-Electrochemical impedance spectroscopy data for each composition is in the EIS directory.
+Electrochemical impedance spectroscopy data for 3 replicate scans for each composition is in the EIS directory.
